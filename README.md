@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Hibernet,SpringBoot,Angular,React,RestApi**
 
-- 💬 Ask me about **Java,React,SpringBoot,**
+- 💬 Ask me about **Html,CSS,Java,React,SpringBoot,**
 
 - 📫 How to reach me **vbraju1904@gmail.com**
 
