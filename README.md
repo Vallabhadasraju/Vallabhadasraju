@@ -1,4 +1,4 @@
-(![image](https://github.com/user-attachments/assets/c6b74abd-1bf2-4339-adc6-b1e2505a3352)
+![image](https://github.com/user-attachments/assets/c6b74abd-1bf2-4339-adc6-b1e2505a3352)
 
 <h1 align="center">Hi 👋, I'm Vallabhadas Butchi Raju</h1>
 <h3 align="center">A passionate JavaFullStack developer from India</h3>
