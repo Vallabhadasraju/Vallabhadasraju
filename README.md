@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/7fd9bbcf-8180-4c64-b918-1103f304a8dc)
+![image](https://github.com/user-attachments/assets/780816e5-e0f4-43ae-89a2-e9babed47720)
+
+
 
 
 <h1 align="center">Hi 👋, I'm Vallabhadas Butchi Raju</h1>
